@@ -26,3 +26,4 @@
     Console.WriteLine(String.Format("{0:0.000000}", negativeCountRatio));
     Console.WriteLine(String.Format("{0:0.000000}", zeroCountRatio));
 }
+

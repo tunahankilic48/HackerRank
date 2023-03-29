@@ -3,19 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33424.131
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlusMinus", "PlusMinus\PlusMinus.csproj", "{5B367873-158C-46D6-8CAE-C0FD9E42F66C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlusMinus", "PlusMinus\PlusMinus.csproj", "{5B367873-158C-46D6-8CAE-C0FD9E42F66C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniMaxSum", "MiniMaxSum\MiniMaxSum.csproj", "{BB8C3902-6CCD-4467-AE9E-4873D049B961}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MiniMaxSum", "MiniMaxSum\MiniMaxSum.csproj", "{BB8C3902-6CCD-4467-AE9E-4873D049B961}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeConversion", "TimeConversion\TimeConversion.csproj", "{F2EDCE36-06F0-4A3E-AA00-A884CF50BD2B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TimeConversion", "TimeConversion\TimeConversion.csproj", "{F2EDCE36-06F0-4A3E-AA00-A884CF50BD2B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindTheMedian", "FindTheMedian\FindTheMedian.csproj", "{13D86158-7BB0-4E0B-82EA-B16B8DA04BE9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindTheMedian", "FindTheMedian\FindTheMedian.csproj", "{13D86158-7BB0-4E0B-82EA-B16B8DA04BE9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LonelyInteger", "LonelyInteger\LonelyInteger.csproj", "{2A1A648B-1496-46AA-9C74-929118AC82C0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiagonalDifference", "DiagonalDifference\DiagonalDifference.csproj", "{C73FA57B-2CE8-4F36-AB06-F9B34D1CF531}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiagonalDifference", "DiagonalDifference\DiagonalDifference.csproj", "{C73FA57B-2CE8-4F36-AB06-F9B34D1CF531}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CountingSort1", "CountingSort1\CountingSort1.csproj", "{81135A88-7428-49AA-A7C7-2EAD6C2320AA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountingSort1", "CountingSort1\CountingSort1.csproj", "{81135A88-7428-49AA-A7C7-2EAD6C2320AA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LonelyInteger", "LonelyInteger\LonelyInteger.csproj", "{61292CBD-46AD-43C8-8FB1-72402D861F5B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,10 +39,6 @@ Global
 		{13D86158-7BB0-4E0B-82EA-B16B8DA04BE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13D86158-7BB0-4E0B-82EA-B16B8DA04BE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{13D86158-7BB0-4E0B-82EA-B16B8DA04BE9}.Release|Any CPU.Build.0 = Release|Any CPU
-		{2A1A648B-1496-46AA-9C74-929118AC82C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2A1A648B-1496-46AA-9C74-929118AC82C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2A1A648B-1496-46AA-9C74-929118AC82C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2A1A648B-1496-46AA-9C74-929118AC82C0}.Release|Any CPU.Build.0 = Release|Any CPU
 		{C73FA57B-2CE8-4F36-AB06-F9B34D1CF531}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{C73FA57B-2CE8-4F36-AB06-F9B34D1CF531}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C73FA57B-2CE8-4F36-AB06-F9B34D1CF531}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -51,6 +47,10 @@ Global
 		{81135A88-7428-49AA-A7C7-2EAD6C2320AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{81135A88-7428-49AA-A7C7-2EAD6C2320AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{81135A88-7428-49AA-A7C7-2EAD6C2320AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61292CBD-46AD-43C8-8FB1-72402D861F5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61292CBD-46AD-43C8-8FB1-72402D861F5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61292CBD-46AD-43C8-8FB1-72402D861F5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61292CBD-46AD-43C8-8FB1-72402D861F5B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
