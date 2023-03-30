@@ -17,9 +17,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CountingSort1", "CountingSo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LonelyInteger", "LonelyInteger\LonelyInteger.csproj", "{61292CBD-46AD-43C8-8FB1-72402D861F5B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CeaserCipher", "CeaserCipher\CeaserCipher.csproj", "{6DE47B5F-35B3-4C56-8387-B94D98CE6CE3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CeaserCipher", "CeaserCipher\CeaserCipher.csproj", "{6DE47B5F-35B3-4C56-8387-B94D98CE6CE3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridChallange", "ConsoleApp1\GridChallange.csproj", "{4240BC62-D442-49F2-9CCD-B9D73A40FEEC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GridChallange", "ConsoleApp1\GridChallange.csproj", "{4240BC62-D442-49F2-9CCD-B9D73A40FEEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursiveDigitSum", "RecursiveDigitSum\RecursiveDigitSum.csproj", "{FA7CE442-290E-4288-8E38-5E4C253FAFE5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{4240BC62-D442-49F2-9CCD-B9D73A40FEEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4240BC62-D442-49F2-9CCD-B9D73A40FEEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4240BC62-D442-49F2-9CCD-B9D73A40FEEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA7CE442-290E-4288-8E38-5E4C253FAFE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA7CE442-290E-4288-8E38-5E4C253FAFE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA7CE442-290E-4288-8E38-5E4C253FAFE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA7CE442-290E-4288-8E38-5E4C253FAFE5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
